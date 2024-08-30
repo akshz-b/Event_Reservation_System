@@ -49,7 +49,7 @@ This program simulates a reservation system for events using multi-threading in 
 
 1. **Compile the Program:**
    ```bash
-   g++ -pthread -o reservation_system reservation_system.cpp
+   g++ -pthread -o reservation_system Event_Reservation_System.cpp
    ```
 
 2. **Run the Program:**
